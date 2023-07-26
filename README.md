@@ -1,0 +1,1 @@
+# Parkinson-Detection-with-Synthetic-dataa
